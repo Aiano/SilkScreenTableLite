@@ -1,6 +1,12 @@
 # 小钢网丝印台
 
+## 效果
+
 ![装配](装配.png)
+
+![渲染](渲染.png)
+
+![实物](实物.jpg)
 
 B站链接：[【开源】让小钢网不再难刷，小钢网丝印台_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1cw4m117SW/)
 
